@@ -1,5 +1,6 @@
 # wangti_assignment_3
-** **Input:
+
+****Input:
 
 sys.argv[1]: comma seperated list of refseq IDs or filenames for query sequences in fasta
 
@@ -10,7 +11,7 @@ sys.argv[3]: e-value threshold. optional. If not specified, the value will be 10
 sys.argv[4]: output filename
 
 
-** **Output: 
+****Output: 
 
 True is displayed if the process is successful.
 
