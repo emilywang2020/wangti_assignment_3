@@ -32,3 +32,5 @@ chimps.fasta,human.fasta for filenames and NG_046857.1,NG_390429.2 .There should
 5. All the queries are blast against the locally created databases that contain the corresponding sequences of human, ecoli, and wuhan virus. 
 
 6. All the result is written to the output file. 
+
+7. It is assumed that blastn.exe and all other databases required to perform blast are in the same directory as main.py. 
